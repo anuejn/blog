@@ -109,6 +109,7 @@ Implementing this UI led to the exploration of a new topic, the communication be
  Currently, the AXIOM recorder is still in a click dummy like phase: No real recording can happen, a connection & settings dialog is missing, and the pipeline is hard coded. That said, it still validates that the UI framework
 1. provides the required elements to implement the envisioned UI
 2. is flexible enough to interact with the existing recorder codebase (like the `Vulkan` processing nodes)
+
 ![current state of the AXIOM recorder UI](https://codimd.niemo.de/uploads/upload_fd1cf662f283a9ff5461ce7298fe1a0f.gif)
 
 ## The End?
